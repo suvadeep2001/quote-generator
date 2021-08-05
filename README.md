@@ -2,7 +2,11 @@
 
 ## random number
 
-function randomSelector(arrayLength) { return Math.floor(Math.random() * arrayLength); }
+function randomSelector(arrayLength) { 
+
+return Math.floor(Math.random() * arrayLength);
+
+}
 
 
  ✨generating quote ✨-
