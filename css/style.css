@@ -1,0 +1,30 @@
+body{
+    background-color: #03203C;
+}
+div {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 80px;
+    font-family: Impact;
+    color: white;
+    font-family: 'Style Script', cursive;
+  }
+  button {
+    width: 250px;
+    height: 80px;
+    background-color: #EDC126;
+    color: white;
+    font-size: 25px;
+    border-radius: 35px;
+  }
+  p {
+    color: white;
+    font-size: 35px;
+  }
+  
+  button:hover {
+    background-color: green;
+  }
+  
