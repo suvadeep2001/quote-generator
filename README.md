@@ -1,4 +1,4 @@
-## This is a quote app . You can generate a new quote everyday.
+# This is a quote app . You can generate a new quote everyday.
 
 ## random number
 
