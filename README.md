@@ -1,6 +1,6 @@
 ##This is a quote app . You can generate a new quote everyday.
 
-##selecting random number 
+## random number
 
 function randomSelector(arrayLength) { return Math.floor(Math.random() * arrayLength); }
 
