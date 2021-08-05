@@ -15,6 +15,6 @@ document.getElementById("authorOutput").innerHTML = '-' + arrayOfQuotes[randomNu
 }
 
 
-##life demo
+#life demo
 
 ![2](https://user-images.githubusercontent.com/68159874/128416821-4029be04-0ee2-4365-8bf8-b57e6c8d6791.png)
